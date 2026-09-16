@@ -12,7 +12,7 @@
 
 PACKAGE_DIR='levi45-freeserver/main'
 
-MY_IPK="enigma2-plugin-extensions-levi45-freeserver_2.4_all.ipk"
+MY_IPK="enigma2-plugin-extensions-levi45-freeserver_2.6_all.ipk"
 MY_DEB="enigma2-plugin-extensions-levi45-freeserver_2.5_all.deb"
 
 ########################################################################################################################
